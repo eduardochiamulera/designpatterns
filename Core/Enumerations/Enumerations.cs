@@ -9,5 +9,17 @@
             Ship,
             Plane
         }
+
+        public enum Forniture
+        {
+            Victorian,
+            Modern
+        }
+
+        public enum FornitureType
+        {
+            Chair,
+            Sofa
+        }
     }
 }
